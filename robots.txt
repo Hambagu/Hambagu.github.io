@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hambagu.github.io/yume-layer-decrypt/sitemap.xml
